@@ -1,16 +1,17 @@
-## Hi there 👋
+About me
+========
+* I am a master's student in Automatic Control at ČVUT in Prague - Faculty of Mechanical Engineering
 
-<!--
-**TerraxCZ/TerraxCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>My used languages</summary>  
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| MATLAB    |
+|     2| Python    |
+|     3| C++       |
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+>Discipline will take you to places where motivation cannot
