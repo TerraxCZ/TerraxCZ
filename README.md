@@ -14,4 +14,4 @@ About me
 </details>
 
 ---
->Discipline will take you to places where motivation cannot
+>Discipline will take you places where motivation cannot
